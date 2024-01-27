@@ -4,6 +4,7 @@
 
 sections = %W[web tools science systems 
 		embedded drivers mobile]
+		
 sections.each do |section|
   puts "Hello, #{section} developers!"
 end
