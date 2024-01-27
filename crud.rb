@@ -94,7 +94,7 @@ class CRUDProgram
     else
       display_items_table
     end
-    puts "Press any key to go back to the main menu..."
+    puts "Press enter to go back to the main menu..."
     gets.chomp
   end
 
