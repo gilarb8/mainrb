@@ -2,7 +2,6 @@
 # Copyright (c) 2024 Gillar Ajie Prasatya
 # See LICENSE file for details.
 
-
 class Item
   attr_accessor :first_name, :last_name, :age, :team
 
