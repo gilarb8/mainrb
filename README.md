@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository is a collection of my personal source files related to learning programming with the Ruby language. In this repository, you will find various programs and exercise files covering different aspects of learning Ruby and its related technologies. The goal of this repository is to provide comprehensive examples and resources to help you understand the Ruby ecosystem, deepen your programming skills in Ruby, and also serve as my portfolio related to my journey in learning this language.
+This repository is a collection of my personal source files related to learning programming with the Ruby language. In this repository, you will find various programs and exercise files covering different aspects of learning Ruby and its related technologies like Crystal. The goal of this repository is to provide comprehensive examples and resources to help you understand the Ruby ecosystem, deepen your programming skills in Ruby, and also serve as my portfolio related to my journey in learning this language.
 
 ## Repository Contents
 
