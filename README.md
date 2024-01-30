@@ -1,6 +1,6 @@
 # mainrb
 
-[![Ruby](https://img.shields.io/badge/Ruby-%23CC0000?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-%23CC0000?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/) [![Crystal](https://img.shields.io/badge/Crystal-%23000000?style=flat&logo=crystal&logoColor=white)](https://crystal-lang.org/)
 
 ## Description
 
