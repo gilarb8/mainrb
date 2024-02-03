@@ -18,7 +18,7 @@ arr.each do |sebut|
   when "jakarta"
     puts "kota ondel-ondel #{sebut}"
   when "surabaya"
-    puts "kota jawir #{sebut}"
+    puts "kota kue lapis harga sejuta #{sebut}"
   else
     puts "kota tidak teridentifikasi: #{sebut}"
   end
