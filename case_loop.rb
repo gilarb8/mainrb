@@ -2,10 +2,6 @@
 # Copyright (c) 2024 Gillar Ajie Prasatya
 # See LICENSE file for details.
 
-sections.each do |section|
-  puts "Hello, #{section} developers!"
-end
-
 arr = %w[bandung jakarta surabaya]
 
 arr.each do |sebut|
