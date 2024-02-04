@@ -3,8 +3,12 @@
 # See LICENSE file for details.
 
 number = [0,1,2,3,4,5,7,8,9]
-random = [0,20,321,512,7845,88] 
+random = [0,20,321,512,7845,88]
 
-puts -> (pilah_number){number.each do |pilah_number| puts "#{pilah_number}" end}.call(number)
+lamd_loop = -> (pilah_number) do
+	pilah_number.each { |pilah| puts "#{pilah}"}
+	end
+
+lamd_loop.call(number)
 puts "-----"
-puts -> (pilah_random){random.each do |pilah_random| puts "#{pilah_random}" end}.call(random)
+lamd_loop.call(random)
