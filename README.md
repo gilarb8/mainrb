@@ -1,7 +1,5 @@
 # mainrb
 [![Ruby](https://img.shields.io/badge/Ruby-%23CC0000?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/) [![Crystal](https://img.shields.io/badge/Crystal-%23000000?style=flat-square&logo=crystal&logoColor=white)](https://crystal-lang.org/)
-<!-- [![Ruby](https://img.shields.io/badge/Ruby-%23CC0000?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/) [![Crystal](https://img.shields.io/badge/Crystal-%23000000?style=flat&logo=crystal&logoColor=white)](https://crystal-lang.org/) -->
-
 ## Description
 
 This repository is a collection of my personal source files related to learning programming with the Ruby language. In this repository, you will find various programs and exercise files covering different aspects of learning Ruby and its related technologies like Crystal. The goal of this repository is to provide comprehensive examples and resources to help you understand the Ruby ecosystem, deepen your programming skills in Ruby, and also serve as my portfolio related to my journey in learning this language.
